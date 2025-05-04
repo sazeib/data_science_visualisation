@@ -1,2 +1,2 @@
 # data_science_visualisation
-Jupyter Notebooks  - Data Science Visualization 
+Jupyter Notebooks for Data Visualisation projects
